@@ -1,0 +1,58 @@
+
+/*  Estilos Gerais do site */
+
+body{
+    font-family: 'Roboto', Arial, sans-serif;
+    z-index: 1;
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+img{
+    display: block;
+    max-width: 100%;
+}
+
+/* Header */
+
+.header {
+    line-height: 20px;
+    margin-top: 40px;
+  
+}
+.header-titulo{
+    font-size: 36px;
+    color: #D6000D;
+    font-weight: 600;
+
+}
+
+.header-ponto{
+    color: #000;
+}
+
+.header-menu{
+   text-align: right;
+}
+
+.header-menu ul li{
+    display: inline;
+    margin: 0 20px;
+    font-size: 18px;
+  
+}
+
+.header-menu ul a li:hover{
+    cursor: pointer;
+}
+
+.menu_ativo{
+    color: #fff;
+    background: #D6000D;
+    border-radius: 5px;
+    padding: 8px 40px;
+}
