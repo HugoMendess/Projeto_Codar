@@ -95,3 +95,43 @@
     }
     
 }
+
+/* Estilo para smartphones */
+@media only screen and (max-width: 767px){
+    
+    /*Header*/
+    .header-titulo{
+       text-align: center;
+       padding-bottom: 40px;
+    }
+  
+
+    .header-menu ul li{
+        display: inline;
+        padding: 6px 25px;
+        font-size: 18px;
+      
+    }
+
+    .header-menu ul a li:hover{
+        padding: 6px 25px;
+    }
+
+    .menu_ativo{
+        color: #fff;
+        background: #D6000D;
+        border-radius: 5px;
+        padding: 6px 25px;
+    }
+    
+
+    .login{
+       visibility: hidden;
+    }
+   
+
+    .footer{
+        text-align: center;
+    }
+   
+}
