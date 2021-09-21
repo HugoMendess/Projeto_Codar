@@ -41,18 +41,64 @@ img{
 
 .header-menu ul li{
     display: inline;
-    margin: 0 20px;
+    padding: 8px 30px;
     font-size: 18px;
   
 }
 
 .header-menu ul a li:hover{
     cursor: pointer;
+    background-color: #D6000D;
+    border-radius: 5px;
+    padding: 8px 30px;
+    color:#fff
+
 }
 
 .menu_ativo{
     color: #fff;
     background: #D6000D;
     border-radius: 5px;
-    padding: 8px 40px;
+    padding: 8px 30px;
+}
+
+/* Introdução */
+
+.introducao{
+    margin-top: 100px;
+    
+
+}
+
+.introducao-titulos{
+    line-height: 90px;
+    
+}
+
+.introducao-titulos p{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.introducao-titulos h2{
+    font-size: 55px;
+    color: #D6000D;
+    font-weight: 500;
+}
+
+.introducao-titulos .btn{
+    background-color: #D6000D;
+    color: #fff;
+    border-radius: 5px;
+    width: 50%;
+    border: none;
+    padding: 10px 10px;
+}
+
+.introducao-titulos .btn:hover{
+    cursor: pointer;
+    background-color: #fff;
+    color: #D6000D;
+    border: 2px solid #000;
+   
 }
