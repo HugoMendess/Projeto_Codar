@@ -161,7 +161,7 @@ img{
     background-color: #D6000D;
     color: #fff;
     padding: 10px 10px;
-    width: 50%;
+    width: 45%;
     border: none;
     border-radius: 5px;
 }
@@ -177,7 +177,7 @@ img{
 
 /* Relatos */
 .Relatos{
-    margin-bottom: 30px;
+    margin-bottom: 100px;
 }
 .Relatos-div1, .Relatos-div2{
     background-color: #e9e9e9;
@@ -225,5 +225,43 @@ img{
     width: 100%;
     background: #000;
     color: #FFF;
-    padding: 20px 0;
+    padding: 45px 0;
+    line-height: 50px;
 }
+
+.footer-titulo h3{
+    font-size: 36px;
+}
+
+.footer-sobre h3, .footer-contato h3, .footer-redes h3{
+    font-size: 22px;
+    font-family: "Roboto", Arial, Helvetica, sans-serif;
+    
+}
+
+.redes-icons li i{
+   
+    padding: 10px 10px;
+    font-size: 35px;
+    color: #D6000D;
+}
+
+.redes-icons li{
+    display: inline;
+
+}
+
+.redes-icons li i:hover{
+    color:#fff;
+    transition: ease .2s;
+}
+
+.footer-titulo p, .footer-sobre p, .footer-contato p{
+    font-size: 16px;
+    padding: 10px 0px;
+}
+
+.footer-email{
+ text-decoration: underline;
+}
+
