@@ -108,28 +108,75 @@
 
     .header-menu ul li{
         display: inline;
-        padding: 6px 25px;
+        padding: 6px 16px;
         font-size: 18px;
       
     }
 
     .header-menu ul a li:hover{
-        padding: 6px 25px;
+        padding: 6px 16px;
     }
 
     .menu_ativo{
         color: #fff;
         background: #D6000D;
         border-radius: 5px;
-        padding: 6px 25px;
+        padding: 6px 16px;
     }
     
 
     .login{
        visibility: hidden;
     }
-   
 
+    /* introdução */
+
+    .introducao-img img, .introducao-titulos{
+        text-align: center;
+    }
+
+    .introducao-titulos{
+        line-height: 60px;
+    }
+
+    .introducao-titulos h2{
+        font-size: 47px;
+        margin-bottom: 20px;
+    }
+
+    .introducao-titulos .btn{
+        width: 85%;
+    }
+
+    /* servicos */
+
+   .servicos{
+     
+       display: flex;
+       flex-direction: column;
+       margin: 120px auto;
+       text-align: center;
+   }
+
+   .div1{
+    order: 1;
+   }
+
+   .div2{
+       order:2;
+   }
+
+   .div3{
+       order: 3;
+   }
+
+   .servicos-button button{
+    margin: 20px 0px;
+    width: 67%;
+    
+}
+
+   /* Footer */
     .footer{
         text-align: center;
     }
