@@ -218,3 +218,12 @@ img{
 .Relatos .empresa{
     font-weight: bold;
 }
+
+/* Footer */
+
+.footer{
+    width: 100%;
+    background: #000;
+    color: #FFF;
+    padding: 20px 0;
+}
