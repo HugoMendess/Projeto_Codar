@@ -66,12 +66,16 @@ img{
 
 .introducao{
     margin-top: 100px;
+   
     
 
 }
 
 .introducao-titulos{
-    line-height: 90px;
+    line-height: 100px;
+    margin-top: 40px;
+   
+
     
 }
 
@@ -101,4 +105,27 @@ img{
     color: #D6000D;
     border: 2px solid #000;
    
+}
+
+/* Servicos */
+
+.servicos{
+    margin-top: 275px;
+  
+}
+
+.servicos p{
+    font-size: 18px;
+    padding: 10px 0px;
+   
+}
+
+.servicos-icons{
+    padding: 0px 10px;
+    color: #D6000D;
+  
+}
+
+.servicos-img img{
+    margin: 0 auto;
 }
