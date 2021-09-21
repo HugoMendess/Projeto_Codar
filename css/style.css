@@ -161,7 +161,7 @@ img{
     background-color: #D6000D;
     color: #fff;
     padding: 10px 10px;
-    width: 45%;
+    width: 25%;
     border: none;
     border-radius: 5px;
 }
@@ -194,8 +194,6 @@ img{
 	float: left;
 	margin: 15px;
 	transition: 0.3s ease;
-
-   
 }
 
 .Relatos-div1 .descricao, .Relatos-div2 .descricao{
@@ -203,8 +201,6 @@ img{
     font-family: "Roboto", Arial, Helvetica, sans-serif;
     text-align: justify;
     margin-bottom: 20px;
-  
-    
 }
 
 .Relatos cite{

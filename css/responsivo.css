@@ -1,0 +1,97 @@
+/*Estilo para tabletes */
+
+@media only screen and (min-width: 768px) and (max-width: 959px){
+
+    /* Container */
+   
+    
+    /*Header*/
+    .header .header-titulo{
+        padding-left: 20px;
+    }
+
+    .header-menu{
+        padding-right: 20px;
+    }
+
+    /*Introdução*/
+
+    .introducao-titulos{
+        line-height: 80px;
+    }
+
+    .introducao-img img{
+        width: 350px;
+        padding-left: 30px;
+    }
+
+    .introducao-titulos p{
+        font-size: 16px;
+    }
+
+    .introducao-titulos h2{
+        font-size: 47px;
+    }
+
+    /* Serviços */
+    .servicos p{
+        font-size: 16px;
+        padding: 10px 0px;
+        font-family: "Roboto", Arial, Helvetica, sans-serif;
+    }
+
+    .servicos-img img{
+       width: 400px;
+
+    }
+
+    .servicos-descricao, .servicos-button{
+        padding-left: 30px;
+    }
+
+    .servicos-button button{
+        width: 30%;
+    }
+
+    /* Relatos */
+
+    .Relatos-div1 .circulo, .Relatos-div2 .circulo{
+        width: 80px;
+        height: 80px;
+    }
+
+    .Relatos-div1, .Relatos-div2{
+        padding: 22px;
+    }
+
+    .Relatos-div1 .descricao, .Relatos-div2 .descricao{
+        font-size: 14px;
+    }
+
+    .Relatos .empresa{
+        font-size: 14px;
+        font-weight: bold;
+        text-align: center;
+        margin-left: 15px;
+    }
+
+    
+    
+    /*footer */
+
+    .footer-titulo h3{
+        font-size: 32px;
+    }
+
+    .footer-sobre h3, .footer-contato h3, .footer-redes h3{
+        font-size: 20px;
+        font-family: "Roboto", Arial, Helvetica, sans-serif;
+        
+    }
+
+    .footer-titulo p, .footer-sobre p, .footer-contato p{
+        font-size: 15px;
+        padding: 10px 0px;
+    }
+    
+}
