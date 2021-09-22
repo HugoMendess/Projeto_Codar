@@ -32,18 +32,18 @@
 # Projeto Codar 
 #### Projeto desenvolvido com base no desafio proposto pela DevChallenge
 
-![Imagem do projeto final]()
+![Imagem do projeto final](https://github.com/HugoMendess/Projeto_Codar/blob/master/resultado/projetoCodar.gif)
 
 ## Começando
 ##### Esse arquivo fará com que você tenha uma cópia deste projeto para fins de estudo e teste.
 
 ## Pré-requisitos
-##### Para implementar o projeto, você precisa ter conhecimentos básicos em HTML5, CSS e Javascript.
+##### Para implementar o projeto, você precisa ter conhecimentos básicos em HTML5 e CSS
 
 ## Construído com
 ##### HTML5
 ##### CSS3 
-##### Javascript
+
 
 ## Autor
 ##### Hugo Roberto Veras Mendes - Estudante de Engenharia da Computação na Universidade Estadual do Maranhão, UEMA.
