@@ -16,19 +16,6 @@
   </p>
 </p>
 
-## Índice
-
-* [Devchallenge](#devchallenge) 
-* [Desafio](#desafio)
-* [Techs](#techs)
-* [Como começar](#como-começar)
-* [Dicas](#dicas)
-  * [Cores](#cores)
-  * [Modelo](#modelo)
-  * [Imagens](#imagens)
-  * [Tipo de fonte](#tipo-de-fonte)
-* [Compartilhe](#compartilhe)
-
 # Projeto Codar 
 #### Projeto desenvolvido com base no desafio proposto pela DevChallenge
 
